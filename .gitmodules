@@ -1,0 +1,45 @@
+[submodule "golang.org/x/tour"]
+	path = golang.org/x/tour
+	url = https://github.com/golang/tour
+[submodule "golang.org/x/sys"]
+	path = golang.org/x/sys
+	url = https://github.com/golang/sys
+[submodule "golang.org/x/net"]
+	path = golang.org/x/net
+	url = https://github.com/golang/net
+[submodule "golang.org/x/tools"]
+	path = golang.org/x/tools
+	url = https://github.com/golang/tools
+[submodule "golang.org/x/crypto"]
+	path = golang.org/x/crypto
+	url = https://github.com/golang/crypto
+[submodule "golang.org/x/image"]
+	path = golang.org/x/image
+	url = https://github.com/golang/image
+[submodule "golang.org/x/lint"]
+	path = golang.org/x/lint
+	url = https://github.com/golang/lint
+[submodule "golang.org/x/vgo"]
+	path = golang.org/x/vgo
+	url = https://github.com/golang/vgo
+[submodule "golang.org/x/time"]
+	path = golang.org/x/time
+	url = https://github.com/golang/time
+[submodule "golang.org/x/review"]
+	path = golang.org/x/review
+	url = https://github.com/golang/review
+[submodule "golang.org/x/sync"]
+	path = golang.org/x/sync
+	url = https://github.com/golang/sync
+[submodule "golang.org/x/perf"]
+	path = golang.org/x/perf
+	url = https://github.com/golang/perf
+[submodule "golang.org/x/debug"]
+	path = golang.org/x/debug
+	url = https://github.com/golang/debug
+[submodule "golang.org/x/build"]
+	path = golang.org/x/build
+	url = https://github.com/golang/build
+[submodule "golang.org/x/text"]
+	path = golang.org/x/text
+	url = https://github.com/golang/text
